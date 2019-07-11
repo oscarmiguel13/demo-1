@@ -1,5 +1,3 @@
-[
- {"id":"1","lender_id":"1","interest_rate":"11.0","loan_amount":"1000","term":"3"},
+[{"id":"1","lender_id":"1","interest_rate":"11.0","loan_amount":"1000","term":"3"},
  {"id":"2","lender_id":"2","interest_rate":"10.0","loan_amount":"1000","term":"3"},
- {"id":"3","lender_id":"2","interest_rate":"15.0","loan_amount":"1000","term":"4"}
-]
+ {"id":"3","lender_id":"2","interest_rate":"15.0","loan_amount":"1000","term":"4"}]
